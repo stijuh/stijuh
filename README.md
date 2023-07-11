@@ -3,12 +3,17 @@
 
 <p align=center> I'm always working on something code related. Be it a website, mobile/desktop app, REST API, game or a combination of that, whatever idea comes to mind. </p>
 
-Currently, I am learning:
+Professionally, I am using:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+And on the hobby side, I am learning/using:
+
 ![.Net MAUI](https://img.shields.io/badge/MAUI-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## :thought_balloon: Contact :thought_balloon:
 You can reach me at: stije.it@gmail.com
