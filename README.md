@@ -2,6 +2,7 @@
 <h3 align=center> I'm a third year student at the University of Applied Sciences Hogeschool Utrecht, the Netherlands. </h3>
 
 <p align=center> I'm always working on something code related. Be it a website, mobile/desktop app, REST API, game or a combination of that, whatever idea comes to mind. </p>
+<p align=center>See my pinned repositories for a couple examples!</p>
 
 Professionally, I am using:
 
