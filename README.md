@@ -35,7 +35,7 @@ You can reach me at: stije.it@gmail.com
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%23DD0031.svg?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-3689a0.svg?style=for-the-badge&logo=react&logoColor=white)
 
 ### Processes and Services I've used
 ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
