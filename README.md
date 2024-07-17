@@ -1,5 +1,5 @@
 <h1 align=center> 'Sup, I'm Stije. </h1>
-<h3 align=center> I'm a fourth year student at the University of Applied Sciences Hogeschool Utrecht, the Netherlands. </h3>
+<h3 align=center> I'm a recently graduated software developer at the University of Applied Sciences Hogeschool Utrecht, the Netherlands. </h3>
 
 <p align=center> I'm always working on something code related. Be it a website, mobile/desktop app, REST API, game or a combination of that, whatever idea comes to mind. </p>
 <p align=center>See my pinned repositories for a couple examples!</p>
@@ -8,7 +8,8 @@ Professionally, I am using:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![EF Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 And on the hobby side, I am learning/using:
 
 ![.Net MAUI](https://img.shields.io/badge/MAUI-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
