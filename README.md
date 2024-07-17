@@ -14,11 +14,13 @@ Professionally, I am using:
 
 And on the hobby side, I am learning/using:
 
-![.Net MAUI](https://img.shields.io/badge/MAUI-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-3689a0.svg?style=for-the-badge&logo=react&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![.Net MAUI](https://img.shields.io/badge/MAUI-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## :thought_balloon: Contact :thought_balloon:
 You can reach me at: stije.it@gmail.com
