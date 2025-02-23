@@ -22,9 +22,6 @@ And on the hobby side, I am learning/using:
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## :thought_balloon: Contact :thought_balloon:
-You can reach me at: stije.it@gmail.com
-
 ## 💻Technologies and Tools💻
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -46,5 +43,9 @@ You can reach me at: stije.it@gmail.com
 ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Aws-orange?style=for-the-badge&logo=Aws&logoColor=white)
+
+
+## :thought_balloon: Contact :thought_balloon:
+You can reach me at: stije.it@gmail.com
 
  <!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stijuh&hide=javascript,css,scss,html&count_private=true&theme=tokyonight) -->
